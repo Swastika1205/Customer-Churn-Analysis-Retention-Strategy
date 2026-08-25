@@ -1,1 +1,6 @@
+# Customer Churn & Retention Dashboard
+
+An interactive **Power BI dashboard** that analyzes customer churn behavior, identifies key churn drivers, segments customers by risk level, and evaluates revenue at risk to support targeted retention strategies. The dashboard provides insights into **7,500 customers**, including a **25% churn rate**, **75% retention rate**, **$1.24M revenue at risk**, and **$0.87M potential revenue retained** under a 70% success-rate scenario, with analysis across contract type, payment method, tenure, support interactions, and customer segments.
+
+**Tech Stack:** Power BI, DAX, Power Query, SQL, Python, Excel.
 
